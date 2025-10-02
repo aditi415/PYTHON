@@ -1,7 +1,6 @@
 print("Hey..! Good morning\n", "Have a nice day")  #\n will print the further sentence on next line
 
-#-----------------------variables
-
+#-----------------------variables----------------------------
 name ="Aditi"
 age=21
 salary=25000
