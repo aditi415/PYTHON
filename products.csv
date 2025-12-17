@@ -1,0 +1,121 @@
+product_id,brand,model,segment,price
+1000,Honda,Civic,Sedan,1365313.0
+1001,Mahindra,XUV300,SUV,2131266.0
+1002,Tata,Safari ZXi+,Electric,
+1003,Mahindra,XUV700 LX,Hatchback,1370746.0
+1004,Mahindra,Scorpio,Hatchback,1413168.0
+1005,Hyundai,Creta LX,Sedan,825281.0
+1006,Tata,Punch ZX+,Electric,2000804.0
+1007,Tata,Altroz,SUV,2080415.0
+1008,Tata,Tiago LX,Hatchback,869536.0
+1009,Mahindra,Thar XZ,Electric,
+1010,Honda,Jazz,Electric,
+1011,Tata,Tigor,Sedan,2161729.0
+1012,Maruti,Brezza,Hatchback,1437291.0
+1013,Mahindra,Marazzo LX,Hatchback,2822809.0
+1014,Hyundai,Exter S,SUV,1883743.0
+1015,Honda,Civic ZXi+,Hatchback,1281669.0
+1016,Maruti,S-Cross XZ,SUV,1719043.0
+1017,Maruti,S-Cross,Hatchback,2806903.0
+1018,Hyundai,i10,Sedan,2029626.0
+1019,Honda,Amaze VX,Hatchback,2341093.0
+1020,Mahindra,Bolero S,SUV,2618163.0
+1021,Toyota,Camry,SUV,706081.0
+1022,Honda,CR-V,Sedan,2261909.0
+1023,Hyundai,Tucson,Hatchback,710078.0
+1024,Maruti,Alto ZXi+,Hatchback,2515631.0
+1025,Mahindra,XUV700 ZX,Sedan,2719823.0
+1026,Honda,BR-V ZX,Hatchback,2066976.0
+1027,Toyota,Hyryder,Hatchback,2004104.0
+1028,Toyota,Urban Cruiser LX,SUV,2608187.0
+1029,Tata,Punch XZ,Hatchback,2259066.0
+1030,Tata,Altroz,Hatchback,2748815.0
+1031,Hyundai,Creta VXi,Sedan,911955.0
+1032,Honda,CR-V,Sedan,2809699.0
+1033,Honda,Elevate,Electric,
+1034,Maruti,Ciaz,SUV,2207618.0
+1035,Maruti,Dzire,Hatchback,742483.0
+1036,Maruti,Celerio VXi,Hatchback,2633350.0
+1037,Tata,Altroz S,Electric,2911987.0
+1038,Honda,CR-V,Hatchback,1001896.0
+1039,Honda,Accord VX,SUV,2782048.0
+1040,Toyota,Innova ZX,Electric,1077095.0
+1041,Tata,Safari S,SUV,671295.0
+1042,Mahindra,XUV700,Electric,1343974.0
+1043,Tata,Curvv ZX+,Electric,1487121.0
+1044,Mahindra,Scorpio VX,Sedan,1656731.0
+1045,Toyota,Camry XZ,SUV,1425816.0
+1046,Hyundai,i10,Hatchback,974705.0
+1047,Honda,Accord,Hatchback,2456926.0
+1048,Toyota,Camry ZX,SUV,2258845.0
+1049,Honda,BR-V ZXi+,Hatchback,2626793.0
+1050,Maruti,Alto ZX+,Hatchback,1154594.0
+1051,Hyundai,Creta,SUV,747718.0
+1052,Hyundai,Verna ZX+,Electric,1245263.0
+1053,Toyota,Innova SV,SUV,2804664.0
+1054,Hyundai,i20,Electric,747443.0
+1055,Mahindra,Marazzo XT,Hatchback,
+1056,Hyundai,Creta,Hatchback,973616.0
+1057,Honda,Civic,Hatchback,1286976.0
+1058,Honda,Elevate ZX+,Sedan,2014447.0
+1059,Honda,Accord,Electric,717796.0
+1060,Honda,Elevate ZX,Sedan,
+1061,Mahindra,XUV300 VXi,Sedan,1590198.0
+1062,Tata,Altroz ZX+,SUV,1298376.0
+1063,Maruti,Wagon R S,Sedan,2966696.0
+1064,Toyota,Hilux,SUV,1298002.0
+1065,Honda,BR-V,SUV,2188015.0
+1066,Hyundai,Creta,Sedan,2179159.0
+1067,Honda,CR-V,Electric,1507317.0
+1068,Hyundai,Aura,Electric,921184.0
+1069,Maruti,Wagon R,Electric,2447191.0
+1070,Maruti,Swift,Electric,2071091.0
+1071,Maruti,Swift VX,Electric,1268234.0
+1072,Hyundai,Aura,Sedan,978480.0
+1073,Honda,Elevate,Sedan,2729863.0
+1074,Maruti,Dzire VXi,Hatchback,1391971.0
+1075,Mahindra,Scorpio-N,Electric,
+1076,Hyundai,Exter XE,Sedan,784423.0
+1077,Hyundai,i10,Hatchback,2352290.0
+1078,Honda,WR-V,Electric,1512495.0
+1079,Hyundai,Alcazar,SUV,2385954.0
+1080,Hyundai,i20 ZXi+,Hatchback,733272.0
+1081,Maruti,Baleno,Sedan,1367836.0
+1082,Honda,CR-V VX,SUV,1726081.0
+1083,Maruti,Wagon R,SUV,2700021.0
+1084,Maruti,Celerio,SUV,1381474.0
+1085,Honda,WR-V,Hatchback,1960828.0
+1086,Toyota,Hyryder,Sedan,1218467.0
+1087,Maruti,Baleno,SUV,1738848.0
+1088,Mahindra,XUV700,Electric,2735619.0
+1089,Mahindra,Scorpio XE,SUV,1477844.0
+1090,Hyundai,Verna,SUV,1080047.0
+1091,Mahindra,Scorpio-N,Hatchback,2307923.0
+1092,Hyundai,Alcazar ZX,Hatchback,1707447.0
+1093,Toyota,Vellfire,Sedan,1539903.0
+1094,Honda,WR-V,Electric,728391.0
+1095,Honda,Elevate,Hatchback,1617026.0
+1096,Honda,BR-V SV,SUV,2259280.0
+1097,Mahindra,Thar,Sedan,
+1098,Toyota,Urban Cruiser VXi,SUV,2953839.0
+1099,Mahindra,Scorpio LX,SUV,
+1100,Mahindra,Scorpio ZX+,Hatchback,2869042.0
+1101,Toyota,Glanza,Sedan,2979126.0
+1102,Toyota,Fortuner VX,Electric,
+1103,Toyota,Fortuner XE,Electric,716381.0
+1104,Toyota,Vellfire,Hatchback,2121701.0
+1105,Honda,Amaze LX,Hatchback,2220197.0
+1106,Tata,Harrier,Sedan,2831660.0
+1107,Tata,Tigor XE,Electric,2378226.0
+1108,Toyota,Hilux,Electric,2511221.0
+1109,Tata,Altroz,Electric,1799386.0
+1110,Tata,Tiago,SUV,2614484.0
+1111,Toyota,Fortuner,Electric,2018175.0
+1112,Tata,Harrier,SUV,1329903.0
+1113,Mahindra,Bolero ZX,Sedan,2742866.0
+1114,Hyundai,Tucson XE,SUV,2115536.0
+1115,Hyundai,Tucson,Sedan,2360427.0
+1116,Toyota,Hyryder XT,Electric,724123.0
+1117,Honda,BR-V,Electric,1536093.0
+1118,Toyota,Camry VX,Sedan,1731565.0
+1119,Honda,Accord,Hatchback,778274.0
